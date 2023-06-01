@@ -13,7 +13,7 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-          I am a versatile developer with a passion for solving complex problems and creating efficient and scalable web applications.
+          As a full-stack senior developer, I sepecialize in web app development using a wide range of technology.
         </SectionText>
         <Button onClick={props.handleClick}>More</Button>
       </LeftSection>

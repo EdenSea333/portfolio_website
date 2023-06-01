@@ -38,7 +38,7 @@ const Header = () => (
       <SocialIcons href="https://www.linkedin.com/in/brandon-n-evans">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://drive.google.com/file/d/1rK5C0eR-DCtIGus6p46lHNG7FmJj3Dl2/view?usp=sharing">
+      <SocialIcons href="/">
         <AiFillInstagram size="3rem" />
       </SocialIcons>
     </Div3>

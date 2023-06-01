@@ -9,12 +9,12 @@ const Footer = () => {
     <FooterWrapper>
       <LinkList>
         <LinkColumn>
-          <LinkTitle>Call</LinkTitle>
-          <LinkItem href="tel:314-343-3432">512-228-6238</LinkItem>
+          <LinkTitle>Address</LinkTitle>
+          <LinkItem>Austin TX</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:contact@jsmastery.com">
+          <LinkItem href=" brandon@imbrandon.io">
             brandon@imbrandon.io
           </LinkItem>
         </LinkColumn>
@@ -30,7 +30,7 @@ const Footer = () => {
           <SocialIcons href="https://www.linkedin.com/in/brandon-n-evans">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://drive.google.com/file/d/1rK5C0eR-DCtIGus6p46lHNG7FmJj3Dl2/view?usp=sharing">
+          <SocialIcons href="/">
             <AiFillInstagram size="3rem" />
           </SocialIcons>
         </SocialContainer>

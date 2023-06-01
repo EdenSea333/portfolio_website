@@ -144,11 +144,11 @@ export const LinkColumn = styled.div`
 `
 export const LinkTitle = styled.h4`
 	font-style: normal;
-	font-weight: 600;
-	font-size: 12px;
+	font-weight: 400;
+	font-size: 24px;
 	line-height: 24px;
 	text-transform: uppercase;
-	color: rgba(255, 255, 255, 0.4);
+	color: rgba(255, 255, 255, 0.6);
 	margin-bottom: 16px;
 
 	@media ${props => props.theme.breakpoints.sm} {
