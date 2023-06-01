@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: 'Vue.js',
+    title: 'Help Addicts',
     description: "This site is for a small company in Austin for a treatment program to help addicts. My friends needed a website for their company. Clients could find them online and send a message if they were interested. This was my first product and completed in 2019. This site based Vue. ",
     image: '/images/vue.png',
     tags: ['Vue', 'JavaScript'],
@@ -8,7 +8,7 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'React',
+    title: 'Sport Photos',
     description: "This site is made to showing sports photos. In other word it is photos library. You can looking for exciting photos. In this site I tried to build a smart and clean environment. As you can see, it is very simple and looks like regular. This site based React.",
     image: '/images/sports_photos.png',
     tags: ['React', 'JavaScript'],
