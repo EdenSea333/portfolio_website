@@ -8,8 +8,7 @@ const Technologies = () => (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development world.
-      From Back-end To Design
+      I've worked with a range a technologies in the web development world, from various stacks such as MERN or XAMPP, to different design patterns such as MVT with Django or MVC using Rails, to even experience in UI/UX tools such as Adobe Photoshop and Figma.
     </SectionText>
     <List>
       <ListItem>

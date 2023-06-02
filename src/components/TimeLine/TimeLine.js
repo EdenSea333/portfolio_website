@@ -46,10 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        As you can see, I have enough experience.
-        Now, I am ready to develop every website as senior developer.
-        I am a full stack & full time developer.
-        Credit is my life.
+        I am a passionate senior full-stack web developer from Austin, Texas that enjoys solving tough problems and building cool stuff. During my free-time I like to research new technologies, educate others, and play CTF. Through out my years of web development, I've gained the experience needed to confidently take on any project from start to end while delivering a quality product. I'm a patient when it comes to understanding a problem or goal, so I'll take the time to make sure things are done properly and ultimately ensuring satisfaction.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
