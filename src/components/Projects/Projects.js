@@ -18,7 +18,6 @@ const Projects = () => (
               <Hr />
             </TitleContent>
             {/*  <CardInfo className="card-info">{p.description}</CardInfo> */}
-            <h1>test</h1>
             <div>
               <TitleContent>Stack</TitleContent>
               <TagList>
