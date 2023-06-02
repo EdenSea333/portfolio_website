@@ -58,10 +58,61 @@ export const projects = [
   {
     title: 'Blossöm Records',
     description: "That's a small restaurant in Austin. This website provides food listing and advertising. This website looks like simple and clean. Customers can join other restaurants through this site. They can find food they want details. It is based on WordPress.",
-    image: '/images/herald.png',
+    image: '/images/brossom.png',
     tags: ['WordPress', 'PHP'],
     visit: 'https://blossomrecs.com/',
     id: 7,
+  },
+];
+
+export const skillavatars = [
+  {
+    image: '/images/react.jfif',
+    id: 0,
+  },
+  {
+    image: '/images/express.png',
+    id: 1,
+  },
+  {
+    image: '/images/angular.png',
+    id: 2,
+  },
+  {
+    image: '/images/wordpress.png',
+    id: 3,
+  },
+  {
+    image: '/images/laravel.jfif',
+    id: 4,
+  },
+  {
+    image: '/images/node.png',
+    id: 5,
+  },
+  {
+    image: '/images/next.jfif',
+    id: 6,
+  },
+  {
+    image: '/images/vuemark.jfif',
+    id: 7,
+  },
+  {
+    image: '/images/diango.jfif',
+    id: 8,
+  },
+  {
+    image: '/images/mongodb.png',
+    id: 9,
+  },
+  {
+    image: '/images/mysql.png',
+    id: 10,
+  },
+  {
+    image: '/images/figma.png',
+    id: 11,
   },
 ];
 

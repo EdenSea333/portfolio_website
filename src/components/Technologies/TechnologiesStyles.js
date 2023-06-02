@@ -22,6 +22,34 @@ export const ImageContainer = styled.div`
     margin-top: 16px;
   }
 `
+export const AvatarContainer = styled.section`
+display: grid;
+grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+padding: 3rem;
+place-items: center;
+column-gap: 2rem;
+row-gap: 3rem;
+@media ${(props) => props.theme.breakpoints.sm} {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  padding-bottom: 0;
+}
+`
+export const AvatarCard = styled.div`
+border-radius: 50%;
+  box-shadow: 1px 1px 10px rgba(80, 78, 78, 0.3);
+  text-align: center;
+`;
+
+export const Avatar = styled.img`
+width: 150px;
+height: 50px;
+border: 2px solid blue;
+border-radius: 50%;
+object-fit: cover;
+overflow: hidden;
+`;
 
 export const MainImage = styled.img`
   width: 100%;
